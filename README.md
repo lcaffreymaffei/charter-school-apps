@@ -1,2 +1,5 @@
 # charter-school-apps
-Cleaning and analyzing company proprietary data from applications to Philadelphia charter schools.
+
+Company maintained website and CRM for common charter school application for Philadelphia charter schools. 
+
+Code includes data processing and analysis of applicant behavior and trends.
